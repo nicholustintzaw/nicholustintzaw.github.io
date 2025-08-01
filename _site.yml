@@ -1,0 +1,4 @@
+name: "resume"
+output_dir: "."
+rmd_files:
+  - resume_website.Rmd
