@@ -1,0 +1,135 @@
+---
+title: "Nicholus Tint Zaw"
+author: "Nicholus Tint Zaw"
+date: "2025-08-01"
+output:
+  rmarkdown::html_document:
+    theme: readable
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+    code_folding: hide
+    css: style.css
+---
+
+<!-- Create a floating TOC and link to a custom CSS (style.css) for styling -->
+
+
+# About Me
+
+I am a Research Analyst at the International Food Policy Research Institute (IFPRI) with a strong background in public policy, global health, nutrition, and causal inference. I hold a Master of Public Policy from the University of Chicago and an Executive Master in Development Policies and Practices from the Graduate Institute of Geneva. My research interests include:
+
+- Mother and Child Nutrition
+- Adolescent Health and Physical Activity Epidemiology
+- Social Protection and Food Security
+- Causal Inference Methods in Program Evaluation
+- Food Environment Analysis using Geospatial Data
+
+
+# Education
+
+**University of Chicago, Harris School of Public Policy** (Chicago, IL)
+
+- Master of Public Policy, Lincoln Scholar (2020–2022)
+- Selected Coursework: Advanced Statistics I/II, Microeconomics I/II, Program Evaluation, Applied Regression, Machine Learning
+
+**Graduate Institute of Geneva** (Geneva, Switzerland)
+
+- Executive Master in Development Policies and Practices (2017–2018)
+
+**University of Nursing** (Yangon, Myanmar)
+
+- Bachelor of Nursing Science, B.N.Sc (Generic) (2003–2007)
+
+
+# Research and Publications
+
+**Research Focus:** Mother & Child Nutrition, Adolescent Health, Global Health, Social Protection, Causal Inference
+
+## Peer-Reviewed Articles
+
+1. Maffioli, E. M., Tint Zaw, N., Field, E. (2024). A comparison between different models of delivering maternal cash transfers in Myanmar. *Health Policy and Planning*, 39(7), 674–682. [DOI](https://doi.org/10.1093/heapol/czae048)
+2. Headey, D., Lambrecht, I., Oo, T. Z., Tint Zaw, N., Maffioli, E. M. (2023). Prepandemic nutrition-sensitive social protection and its sustained benefits during crises in Myanmar. *The Journal of Nutrition*, 153(4), 1052–1062. [DOI](https://doi.org/10.1016/j.tjnut.2023.02.009)
+3. Than, M. W., Tint Zaw, N., et al. (2021). Assessing depressive symptoms among people living with HIV in Yangon: Role of self-help group membership. *PLOS ONE*. [DOI](https://doi.org/10.1371/journal.pone.0248807)
+
+## Conference Presentations
+
+- Poster: Inequities in Coverage of Child Illness Interventions in Remote Areas of Armed Conflict in Myanmar (HSR Global Symposium on Health Systems Research, 2024)
+
+## Reports & Policy Briefs
+
+- “The role of Ethnic Armed Organizations in social welfare in Kayah State, Myanmar” (International Growth Center, 2021)
+- Qualitative assessment of health supply chain in Myanmar (2021)
+- Social Pension Qualitative Assessment (HelpAge International, 2020)
+- Hybrid Cash Transfer Mechanism for Myanmar (Save the Children International, 2018)
+
+
+# Professional Experience
+
+## International Food Policy Research Institute (IFPRI)
+**Research Analyst** (Washington, DC, Aug 2023 – Present)
+
+- Design and implement quantitative surveys in developing countries
+- Lead data management, cleaning, and analysis with R and Stata
+- Prepare reports, tables, and visualizations for stakeholders
+
+## Community Partners International (CPI)
+**Research Advisor** (Remote: Myanmar–Thailand Border, Jun 2022 – Present)
+
+- Oversee evaluations of humanitarian projects by Ethnic Health Organizations
+- Collaborate on research publications with George Washington University faculty
+- Support data-driven program and policy decisions in fragile contexts
+
+## The World Bank, DIME
+**Research Assistant** (Washington, DC, Sept 2022 – Jul 2023)
+
+- Supported WFP school feeding program evaluations in Burundi and Jordan
+- Developed and programmed survey instruments; conducted data QC
+- Analyzed survey data and produced communication materials
+
+## Other Roles
+
+- **Research Manager**, International Growth Center (Yangon, 2020–2021)
+- **Senior Research Associate**, Innovations for Poverty Action (Yangon, 2016–2019)
+- **Senior Program Advisor (Nutrition)**, Save the Children International (Yangon, 2008–2016)
+
+
+# Consultant Engagements (Selected)
+
+- CARE International: Baseline study, Food Security & Livelihoods (Kaya State, 2020)
+- Save the Children International: Baseline study Rakhine State (2020)
+- HelpAge International: Myanmar National Social Pension assessment (2020)
+- Ministry of Health & Sport, Myanmar: NCD Survey programming (2019)
+- World Concern: Nutrition Causal Analysis (2019)
+
+
+# Awards & Fellowships
+
+- Robert S. McNamara Fellow, World Bank (2022–2023)
+- Opportunity Scholars, posit::conf (2023)
+- Lincoln Scholar Award, USAID (2020–2022)
+- Deboer Fellow, Myanmar Leadership Development Program (2017)
+
+
+# Open-Source Contributions
+
+- **riycf** (R): Lead author for IYCF evaluation toolkit. [GitHub](https://nutriverse.io/riycf/)
+- **micronutr** (R): Co-developer for micronutrient deficiency tools. [GitHub](https://nutriverse.io/micronutr/)
+- **Burma R Initiative**: Founder, promotes R in Myanmar research.
+- Ongoing workflow for food environment analysis in R.
+
+
+# Skills & Programming
+
+- **Languages & Tools:** R, Stata, Python, QGIS, ODK, LaTeX, Git, GitHub
+- **Analysis:** Survey design, KDE, causal inference, DiD, RMD visualization
+- **Soft Skills:** Project management, capacity building, technical leadership
+
+
+# Contact
+
+**Email:** ntintzaw@uchicago.edu  
+**GitHub:** https://github.com/nicholustintzaw  
+**Location:** Falls Church, VA, USA
