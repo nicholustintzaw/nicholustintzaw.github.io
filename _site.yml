@@ -1,17 +1,4 @@
-name: "Nicholus Tint Zaw"
-output_dir: "."          # render HTML into repo root
-navbar:
-  title: "Nicholus Tint Zaw"
-  left:
-    - text: "About"
-      href: resume_website.html
-    - text: "Research"
-      href: resume_website_test.html
-
-
-
-# name: "resume"
-# output_dir: "."
-# rmd_files:
-#   - resume_website.Rmd
-# resume_website_test.Rmd
+name: "resume"
+output_dir: "."
+rmd_files:
+  - resume_website.Rmd
