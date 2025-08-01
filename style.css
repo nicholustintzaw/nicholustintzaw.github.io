@@ -1,0 +1,83 @@
+/* style.css */
+
+/* Global reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fafafa;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #222;
+  margin-bottom: 0.5rem;
+}
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+h2 {
+  font-size: 1.75rem;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+}
+
+/* Paragraphs and lists */
+p, li {
+  margin-bottom: 1rem;
+}
+ul {
+  list-style-type: disc;
+  margin-left: 1.5rem;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Tables (if any) */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #f0f0f0;
+  padding: 0.5rem;
+  border-radius: 3px;
+}
+
+/* Floating TOC */
+#TOC {
+  position: fixed;
+  top: 2rem;
+  right: 2rem;
+  max-width: 200px;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  background: #fff;
+}
