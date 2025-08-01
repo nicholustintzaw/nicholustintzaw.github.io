@@ -1,7 +1,7 @@
 {
     "id": "8F68D525",
-    "path": "C:/Users/NTZaw/nicholustintzaw.github.io/resume_website.Rmd",
-    "project_path": "resume_website.Rmd",
+    "path": "C:/Users/NTZaw/nicholustintzaw.github.io/resume_website_test.Rmd",
+    "project_path": "resume_website_test.Rmd",
     "type": "r_markdown",
     "hash": "2066908431",
     "contents": "",
@@ -17,11 +17,11 @@
         "scrollLine": "108"
     },
     "folds": "",
-    "lastKnownWriteTime": 1754065240,
+    "lastKnownWriteTime": 1754071199,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1754065240211,
+    "last_content_update": 1754071199883,
     "read_only": false,
     "read_only_alternatives": []
 }
