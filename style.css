@@ -5,17 +5,17 @@
   box-sizing: border-box;
 }
 
-/* Body: full-width content with left margin for TOC */
+/* Body: leave room for TOC, minimal padding */
 body {
   font-family: 'Segoe UI', Roboto, sans-serif;
   line-height: 1.6;
   color: #333;
   background-color: #fafafa;
-  padding: 2rem;
+  padding: 1rem 1.5rem;      /* top/bottom 1rem, sides 1.5rem */
   margin-top: 2rem;
-  margin-left: 340px;          /* leave room for TOC */
-  margin-right: 2rem;
-  width: auto;                 /* let it fill remaining width */
+  margin-left: 240px;        /* TOC width (220px) + 1rem gap (~16px) */
+  margin-right: 1.5rem;
+  width: auto;               /* fill remaining space */
 }
 
 /* Headings */
@@ -71,15 +71,15 @@ pre, code {
   border-radius: 3px;
 }
 
-/* Floating TOC on left, wider */
+/* Floating TOC on left */
 #TOC {
   position: fixed;
   top: 2rem;
-  left: 2rem;                  /* move to left side */
-  width: 300px;                /* wider panel */
+  left: 1rem;                /* 1rem in from left edge */
+  width: 220px;              /* narrower panel */
   border: 1px solid #ddd;
   padding: 1rem;
   background: #fff;
   max-height: calc(100vh - 4rem);
-  overflow-y: auto;            /* scroll if too tall */
+  overflow-y: auto;          /* scroll if tall */
 }
